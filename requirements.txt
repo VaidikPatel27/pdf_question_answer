@@ -1,0 +1,12 @@
+pandas
+numpy
+regex
+emoji
+PyPDF2
+nltk
+semantic_text_splitter
+streamlit
+faiss-cpu
+sentence_transformers
+openai
+python-dotenv
